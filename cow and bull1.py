@@ -32,5 +32,5 @@ while True:
     if user=="y":
         game(list1)
     else:
-        print("quit")    
+        print("Quit the game")    
         break
